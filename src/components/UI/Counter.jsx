@@ -19,7 +19,7 @@ const counterData = [
 
 const Counter = () => {
   return (
-    <section className="counter">
+    <section className="counter" id="projects">
       <div className="container">
         <div className="container__wrapper">
           {counterData.map((item, index) => (
