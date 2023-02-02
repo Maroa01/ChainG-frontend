@@ -27,7 +27,7 @@ const About = () => {
             <p className="description about__content-desc">
               Our expert-led courses, personalized coaching, interactive
               training sessions and thriving community provide the knowledge and
-              support you need to succeed in the world of cryptocurrency.
+              support you need to be successful in the world of cryptocurrency.
             </p>
 
             <div className="choose__item-wrapper">
