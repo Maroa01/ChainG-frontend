@@ -17,13 +17,13 @@ const serviceData = [
   {
     icon: "ri-lightbulb-line",
     title: "Training",
-    desc: "Participate in hands-on training sessions to hone your skills and master the intricacies of cryptocurrency investment and trading.",
+    desc: "Achieve mastery in the world of cryptocurrency and blockchain technology with our comprehensive training program.",
   },
 
   {
     icon: "ri-community-fill",
     title: "Community",
-    desc: "Connect with a dynamic community of crypto enthusiasts to share knowledge, experiences and insights in the world of cryptocurrencies.",
+    desc: "Connect with like-minded individuals and stay updated on industry developments.",
   },
 ];
 
