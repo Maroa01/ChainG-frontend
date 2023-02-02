@@ -13,6 +13,11 @@ const chooseData = [
     title: "Dedicated team",
     desc: "Our experienced coaches provide personalized support and guidance to help you reach your goals. The team offers training sessions that allow you to deepen your understanding and put your knowledge into practice.",
   },
+  {
+    icon: "ri-honour-line",
+    title: "Trusted and Reliable",
+    desc: "With Chain Goats, you can trust that you're getting the best education and support in the world of cryptocurrency.",
+  },
 ];
 
 const About = () => {
@@ -22,8 +27,8 @@ const About = () => {
         <div className="about__wrapper">
           <div className="about__content">
             <h6 className="subtitle">What we are bringing to the space.</h6>
-            <h2>You can learn at your own pace and at your </h2>
-            <h2 className="highlight"> own convenience</h2>
+            <h2>You can learn at your own pace and </h2>
+            <h2 className="highlight"> at your own convenience</h2>
             <p className="description about__content-desc">
               Our expert-led courses, personalized coaching, interactive
               training sessions and thriving community provide the knowledge and
